@@ -1,0 +1,21 @@
+html{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.dropdown {
+    background-color: yellow;
+    border: 2px solid black;
+
+}
+.menuOption {
+    border-top: 2px solid black;
+
+}
+.hideOptions {
+    display: none;
+}
+.showOptions {
+    display: block;
+}
